@@ -12,7 +12,7 @@ class App extends Component {
     };
     // this.handleChange = this.handleChange.bind(this);
     //linija koda neophodna u slucaju da handleChange nisam napisao kao arrow funkciju
-    // proba komita na git
+    // proba komita na git 2 put
   }
   handleChange = (e) => {
     this.setState({ searchFiled: e.target.value });
